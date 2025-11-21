@@ -7901,6 +7901,14 @@
         ]
     },
     {
+        "name": "Gleam.io",
+        "url": "https://gleam.io/faq/accounts-and-billing/account/how-do-i-delete-my-account",
+        "difficulty": "easy",
+        "notes": "In your account settings, fill the 'Delete Account' confirmation box and click the 'Delete My Account' button.",
+        "notes_fr": "Dans les parametres de votre compte, remplissez la boite de confirmation 'Delete Account' puis appuyez sur le bouton 'Delete My Account'.",
+        "domains": ["gleam.io"]
+    },
+    {
         "name": "Glide (UK)",
         "url": "https://prearrival.glidestudent.co.uk/privacy-policy",
         "difficulty": "hard",
